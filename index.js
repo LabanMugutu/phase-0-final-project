@@ -1,4 +1,7 @@
 // Toggle Skills Section
+document.addEventListener('DOMContentLoaded' , function(){
+    alert("Script is working")
+})
 document.addEventListener('DOMContentLoaded', function () {
   const toggleBtn = document.getElementById('toggleSkills');
   const skillsList = document.getElementById('skillsList');
